@@ -1,0 +1,190 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.ff_roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.ff_montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  color: #212529;
+}
+
+.navbar-brand img {
+  margin-right: 5px;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #6c757d !important;
+  margin-right: 15px;
+}
+
+.nav-link:hover {
+  color: #0d6efd !important;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  padding: 8px 20px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+  border-color: #0b5ed7;
+}
+
+header h1 {
+  color: #212529;
+  font-size: 3.5rem;
+  line-height: 1.2;
+}
+
+header p {
+  font-size: 1.25rem;
+}
+
+nav.navbar {
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  position: absolute;
+  width: 100%;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); /* Optional: add a subtle shadow */
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+/* Navbar fixed cuando haces scroll */
+nav.navbar.scrolled {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+/* Opcional: cambiar el fondo cuando está fixed */
+nav.navbar.scrolled {
+  background-color: #fff !important;
+}
+
+.img-fluid.rounded-3.my-5 {
+  border-radius: 1rem !important;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  max-width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+.bg-primary {
+  background-color: #ececef !important;
+}
+
+#why-choose-us .list-unstyled {
+  padding-left: 0;
+}
+
+#why-choose-us .list-unstyled li {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+  color: #343a40;
+}
+
+#why-choose-us .list-unstyled li i {
+  font-size: 1.5rem;
+  color: #0d6efd; /* Bootstrap primary color */
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card {
+  background-color: transparent !important;
+  border: 1px solid #b2b2b2 !important;
+}
+
+.text-success {
+  color: #00ff88 !important;
+}
+
+.btn-outline-success {
+  color: #00ff88;
+  border-color: #00ff88;
+}
+
+.btn-outline-success:hover {
+  background-color: #00ff88;
+  border-color: #00ff88;
+  color: #000;
+}
+
+.bg-main {
+  background-color: #0b3077 !important;
+}
+.text-main {
+  color: #0b3077 !important;
+}
+
+/* Swiper styles for clients section */
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.swiper-pagination-bullet-active {
+  margin-top: 100px;
+  background-color: #0b3077 !important;
+}
