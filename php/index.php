@@ -59,11 +59,12 @@ $mail->addReplyTo($_POST['email'], $_POST['nombre']);
 
 
 
-$mail->From = 'mail@vcmaquinas.com';
+$mail->From = 'mail@secofyl.com';
 
 // $mail->FromName = $_POST['nombre'];
 
-$mail->addAddress("secofyl@gmail.com");
+// $mail->addAddress("secofyl@gmail.com");
+$mail->addAddress("jesus_loera_15@hotmail.com");
 $mail->isHTML(true);
 $mail->Subject = "Secofyl contacto Pagina Web";
 $mail->AddEmbeddedImage('../assets/logo.jpeg', 'logo_id');
