@@ -164,31 +164,31 @@ $html = "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3
 $mail->Body = $html;
 
 
-
-
-
 try {
-
     $mail->send();
-
     $result = array(
-
         'success' => true
-
     );
-
     echo json_encode($result);
-
+    // Puedes agregar un registro (log) aquí si el envío es exitoso
+    // error_log("Correo enviado con éxito.");
     exit();
 } catch (Exception $e) {
+    // 1. Obtener el error detallado de PHPMailer
+    $error_message = $mail->ErrorInfo;
+
+    // 2. Imprimir el error en la salida (si se ejecuta en el navegador)
+    // Para ver este mensaje, asegúrate de que tu script NO esté siendo llamado 
+    // únicamente por AJAX, o revisa la respuesta de la llamada AJAX en la consola.
+    echo "Message could not be sent. Mailer Error: {$error_message}";
+
+    // 3. Registrar el error en el log del servidor (es lo más recomendable)
+    error_log("PHPMailer Error: {$error_message}");
 
     $result = array(
-
         'success' => false,
-
+        'error' => "Mailer Error: {$error_message}" // Añadir el error al JSON de respuesta
     );
-
     echo json_encode($result);
-
     exit();
 }
