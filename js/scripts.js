@@ -72,7 +72,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
       }
       fireToast("success", "Mensaje Enviado con Exito");
       setTimeout(() => {
-        window.location.reload();
+        // window.location.reload();
       }, 2000);
     });
   });
