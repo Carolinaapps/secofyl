@@ -58,8 +58,7 @@ $mail->addReplyTo($_POST['email'], $_POST['nombre']);
 
 
 
-
-$mail->From = 'mail@secofyl.com';
+$mail->setFrom('senderemails@secofyl.com', 'Secofyl Web Contacto');
 
 // $mail->FromName = $_POST['nombre'];
 
