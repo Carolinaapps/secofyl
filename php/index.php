@@ -62,8 +62,7 @@ $mail->setFrom('senderemails@secofyl.com', 'Secofyl Web Contacto');
 
 // $mail->FromName = $_POST['nombre'];
 
-// $mail->addAddress("secofyl@gmail.com");
-$mail->addAddress("jesus_loera_15@hotmail.com");
+$mail->addAddress("secofyl@gmail.com");
 $mail->isHTML(true);
 $mail->Subject = "Secofyl contacto Pagina Web";
 $mail->AddEmbeddedImage('../assets/logo.jpeg', 'logo_id');
