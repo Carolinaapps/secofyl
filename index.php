@@ -130,7 +130,7 @@
                         <h1 data-aos="fade-up" class="display-4 fw-bolder text-dark mb-2 ff_montserrat">Soluciones de Contabilidad Expertas para el Crecimiento de tu Negocio.</h1>
                         <p class="lead fw-normal text-muted mb-4">¡Optimiza la gestión y administración de tu empresa con nuestros servicios contables!</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                            <a data-aos="fade-right" data-aos-offset="-100" data-aos-easing="ease-in-sine" class="btn bg-main  text-white btn-lg px-4 me-sm-3" href="#consultation">Contáctanos</a>
+                            <a data-aos="fade-right" data-aos-offset="-100" data-aos-easing="ease-in-sine" class="btn bg-main  text-white btn-lg px-4 me-sm-3" href="#contact">Contáctanos</a>
                         </div>
                     </div>
                 </div>

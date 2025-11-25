@@ -59,7 +59,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
       // document.getElementById("enviar-formulario2").disabled = true;
       document.getElementById("enviar-formulario").disabled = true;
       //
-      const response = await fetch("http://www.vcmaquinas.com/php/index.php", {
+      const response = await fetch("https://secofyl.com/php/index.php", {
         method: "POST",
         body: formData,
       }).then((r) => r.json());

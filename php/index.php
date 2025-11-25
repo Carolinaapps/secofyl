@@ -30,15 +30,16 @@ $mail = new PHPMailer;
 
 $mail->isSMTP();
 
-$mail->Host = 'rs2-or.serverhostgroup.com';
+// $mail->Host = 'rs2-or.serverhostgroup.com';
+$mail->Host = 'rs8-va.serverhostgroup.com';
 
 $mail->SMTPAuth = true;
 
-$mail->Username = 'senderemails@vcmaquinas.com';
+$mail->Username = 'senderemails@secofyl.com';
 
 // $mail->Password = '[Cjx?)mZou-f';
 
-$mail->Password = 'sendenvia_123vcmaquinas';
+$mail->Password = 'sendenvia_123secofyl';
 
 $mail->SMTPSecure = 'ssl';
 
@@ -64,8 +65,8 @@ $mail->From = 'mail@vcmaquinas.com';
 
 $mail->addAddress("secofyl@gmail.com");
 $mail->isHTML(true);
-$mail->Subject = "VC MAQUINAS contacto Pagina Web";
-$mail->AddEmbeddedImage('../assets/logo encabezado.png', 'logo_id');
+$mail->Subject = "Secofyl contacto Pagina Web";
+$mail->AddEmbeddedImage('../assets/logo.jpeg', 'logo_id');
 
 $html = "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 
@@ -75,7 +76,7 @@ $html = "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3
 
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-    <title>Super Titulo</title>
+    <title>Secofyl</title>
 
 </head>
 
