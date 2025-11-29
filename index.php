@@ -148,7 +148,7 @@
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="my-5 text-center text-xl-start">
                             <h2 class="display-5 fw-bolder text-dark mb-2 ff_montserrat" data-aos="fade-up">Quiénes Somos</h2>
-                            <p class="lead fw-normal text-muted mb-4">Servicios de Contabilidad Fiscal y Legal es su aliado estratégico con más de un 5 años de experiencia consolidando las mejores prácticas en Contabilidad, Impuestos, Nómina, Facturación y Administración. Nos dedicamos a brindar a personas físicas y empresas una asesoría profesional de excelencia, basada en la integridad y la calidad, para optimizar su gestión fiscal y administrativa.</p>
+                            <p class="lead fw-normal text-muted mb-4">Servicios de Contabilidad Fiscal y Legal es su aliado estratégico con más de 15 años de experiencia consolidando las mejores prácticas en Contabilidad, Impuestos, Nómina, Facturación y Administración. Nos dedicamos a brindar a personas físicas y empresas una asesoría profesional de excelencia, basada en la integridad y la calidad, para optimizar su gestión fiscal y administrativa.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-xxl-6 d-none d-xl-block text-center">
@@ -634,7 +634,7 @@
                         </div>
                         <div>
                             <p data-aos="flip-up" class="mb-0">contacto@secofyl.com</p>
-                            <p data-aos="flip-up" class="mb-0">osvaldo.reyes@secofyl.com</p>
+                            <p data-aos="flip-up" class="mb-0">contacto@secofyl.com</p>
                         </div>
                     </div>
 
@@ -646,7 +646,7 @@
                             </svg>
                         </div>
                         <div>
-                            <p data-aos="flip-up" class="mb-0">GOMEZ MORIN 350, int PB6A-5, VALLE DEL CAMPESTRE, san pedro garza garcia</p>
+                            <p data-aos="flip-up" class="mb-0">GOMEZ MORIN 350, INT PB6A-5, VALLE DEL CAMPESTRE, SAN PEDRO GARZA GARCIA</p>
                         </div>
                     </div>
 
