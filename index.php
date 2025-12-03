@@ -634,7 +634,6 @@
                         </div>
                         <div>
                             <p data-aos="flip-up" class="mb-0">contacto@secofyl.com</p>
-                            <p data-aos="flip-up" class="mb-0">contacto@secofyl.com</p>
                         </div>
                     </div>
 
