@@ -28,7 +28,7 @@
     <!-- swiper -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
-    <meta name="description" content="Expertos en contabilidad, impuestos y nómina para empresas en Monterrey. Más de 5 años de experiencia. ¡Cotiza gratis hoy!">
+    <meta name="description" content="SECOFYL es un despacho contable en San Pedro Garza García con más de 15 años  de experiencia en contabilidad, impuestos y nómina. Solicita asesoría hoy.">
 
     <meta name="keywords" content="servicios contables, contador público, contabilidad empresarial, declaraciones fiscales, asesoría fiscal México, servicios de nómina, precios de transferencia, gestión administrativa, contador para pymes, asesoría legal fiscal, impuestos personas físicas, impuestos personas morales, despacho contable, contador certificado, servicios fiscales, auditoría contable, planeación fiscal, outsourcing contable">
 
@@ -37,15 +37,15 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="">
-    <meta property="og:title" content="Servicios Contables y Fiscales | Monterrey, NL">
-    <meta property="og:description" content="Expertos en contabilidad, impuestos y nómina para empresas en Monterrey. Más de 5 años de experiencia. ¡Cotiza gratis hoy!">
+    <meta property="og:title" content="Despacho Contable en San Pedro Garza García | SECOFYL">
+    <meta property="og:description" content="SECOFYL es un despacho contable en San Pedro Garza García con más de 15 años  de experiencia en contabilidad, impuestos y nómina. Solicita asesoría hoy.">
     <meta property="og:image" content="assets/logo1-removebg.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="">
-    <meta property="twitter:title" content="Servicios Contables y Fiscales | Monterrey, NL">
-    <meta property="twitter:description" content="Expertos en contabilidad, impuestos y nómina para empresas en Monterrey. Más de 5 años de experiencia. ¡Cotiza gratis hoy!">
+    <meta property="twitter:title" content="Despacho Contable en San Pedro Garza García | SECOFYL">
+    <meta property="twitter:description" content="SECOFYL es un despacho contable en San Pedro Garza García con más de 15 años  de experiencia en contabilidad, impuestos y nómina. Solicita asesoría hoy.">
     <meta property="twitter:image" content="assets/logo1-removebg.png">
 
     <!-- Información adicional -->
@@ -54,14 +54,14 @@
     <meta name="geo.region" content="MX">
     <meta name="geo.placename" content="Monterrey">
 
-    <title>Servicios Contables y Fiscales | Monterrey, NL</title>
+    <title>Despacho Contable en San Pedro Garza García | SECOFYL</title>
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": ["AccountingService", "FinancialService"],
             "name": "Servicios de Contabilidad Fiscal y Legal S de RL de CV",
-            "description": "Servicios contables profesionales para personas físicas y morales. Contabilidad, impuestos, nómina, asesoría legal y precios de transferencia.",
+            "description": "SECOFYL es un despacho contable en San Pedro Garza García con más de 15 años  de experiencia en contabilidad, impuestos y nómina. Solicita asesoría hoy.",
             "url": "https://tudominio.com",
             "telephone": "+528118241886",
             "email": "contacto@secofyl.com",
@@ -92,6 +92,16 @@
         }
     </script>
 
+
+    <!-- Event snippet for Vista de una página conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-17253400691/0KSHCM6h2OAaEPOAiKNA',
+            'value': 1.0,
+            'currency': 'MXN'
+        });
+    </script>
+
 </head>
 
 <body id="page-top">
@@ -116,7 +126,7 @@
                     <li class="nav-item"><a class="nav-link" href="#about">Acerca de nosotros</a></li>
                     <li class="nav-item"><a class="nav-link" href="#services">Servicios</a></li>
                     <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonios</a></li>
-                    <li class="nav-item"><a class="btn btn-primary ms-lg-3 bg-main" href="#contact">Contáctanos</a></li>
+                    <li class="nav-item"><a class="btn btn-primary ms-lg-3 bg-main" href="#contact">Solicita una Asesoría</a></li>
                 </ul>
             </div>
         </div>
@@ -127,10 +137,11 @@
             <div class="row gx-5 align-items-center justify-content-center" style="min-height: 100dvh;">
                 <div class="col-lg-6 col-xl-6 col-xxl-6">
                     <div class="my-5 text-center text-xl-start">
-                        <h1 data-aos="fade-up" class="display-4 fw-bolder text-dark mb-2 ff_montserrat">Soluciones de Contabilidad Expertas para el Crecimiento de tu Negocio.</h1>
-                        <p class="lead fw-normal text-muted mb-4">¡Optimiza la gestión y administración de tu empresa con nuestros servicios contables!</p>
+                        <h1 data-aos="fade-up" class="display-4 fw-bolder text-dark mb-2 ff_montserrat">Despacho Contable en San Pedro Garza García.</h1>
+                        <h2 data-aos="fade-up" class="display-4 fw-bolder text-dark my-4 ff_montserrat">Contabilidad Profesional para el crecimiento de tu empresa.</h2>
+                        <p class="lead fw-normal text-muted mb-4">Brindamos estructura y confianza para el desarrollo sostenible de tu empresa.</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                            <a data-aos="fade-right" data-aos-offset="-100" data-aos-easing="ease-in-sine" class="btn bg-main  text-white btn-lg px-4 me-sm-3" href="#contact">Contáctanos</a>
+                            <a data-aos="fade-right" data-aos-offset="-100" data-aos-easing="ease-in-sine" class="btn bg-main  text-white btn-lg px-4 me-sm-3" href="#contact">Solicita una Asesoría</a>
                         </div>
                     </div>
                 </div>
@@ -147,8 +158,8 @@
                 <div class="row gx-5 align-items-center justify-content-center">
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="my-5 text-center text-xl-start">
-                            <h2 class="display-5 fw-bolder text-dark mb-2 ff_montserrat" data-aos="fade-up">Quiénes Somos</h2>
-                            <p class="lead fw-normal text-muted mb-4">Servicios de Contabilidad Fiscal y Legal es su aliado estratégico con más de 15 años de experiencia consolidando las mejores prácticas en Contabilidad, Impuestos, Nómina, Facturación y Administración. Nos dedicamos a brindar a personas físicas y empresas una asesoría profesional de excelencia, basada en la integridad y la calidad, para optimizar su gestión fiscal y administrativa.</p>
+                            <h4 class="display-5 fw-bolder text-dark mb-2 ff_montserrat" data-aos="fade-up">Quiénes Somos</h4>
+                            <p class="lead fw-normal text-muted mb-4">SECOFYL es un despacho contable en San Pedro Garza García con más de 15 años de experiencia, brindando servicios de contabilidad, impuestos, nómina y asesoría empresarial en Monterrey y el área metropolitana de Nuevo León.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-xxl-6 d-none d-xl-block text-center">
@@ -164,8 +175,8 @@
             <section class="py-2" id="services">
                 <div class="container-fluid px-5 my-5">
                     <div class="text-center mb-5">
-                        <h2 class="fw-bolder mb-3 ff_montserrat" data-aos="fade-up">Nuestros servicios</h2>
-                        <p class="text-muted mb-0">Ofrecemos una amplia gama de servicios de contabilidad para satisfacer las necesidades de tu negocio.</p>
+                        <h4 class="fw-bolder mb-3 ff_montserrat" data-aos="fade-up">Nuestros servicios</h4>
+                        <p class="text-muted mb-0">SECOFYL brinda un enfoque estratégico y confiable para optimizar la gestión de tu empresa.</p>
                     </div>
 
                     <div class="row gx-4 row-cols-1 row-cols-md-3 justify-content-center">
@@ -176,8 +187,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-calculator"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Contabilidad General</h3>
-                                    <p class="text-muted mb-0">Registro y control preciso de todas tus operaciones financieras. Mantén tu contabilidad al día y cumple con las normativas fiscales vigentes.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Contabilidad General</h4>
+                                    <p class="text-muted mb-0">Llevamos un registro y control preciso de todas tus operaciones financieras, asegurando que tu contabilidad esté siempre al día y cumpla con las normativas fiscales vigentes.</p>
                                 </div>
                             </div>
                         </div>
@@ -189,8 +200,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-people"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Nómina</h3>
-                                    <p class="text-muted mb-0">Procesamiento completo de nómina, cálculo de percepciones y deducciones, timbrado de recibos y cumplimiento de obligaciones patronales.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Nómina</h4>
+                                    <p class="text-muted mb-0">Procesamos tu nómina de forma completa, asegurando cálculos precisos, timbrado correcto de recibos y cumplimiento de todas las obligaciones patronales.</p>
                                 </div>
                             </div>
                         </div>
@@ -202,8 +213,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-receipt-cutoff"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Cálculo y Presentación de Impuestos</h3>
-                                    <p class="text-muted mb-0">Determinamos y presentamos tus declaraciones mensuales y anuales ante el SAT. Optimizamos tu carga fiscal dentro del marco legal.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Declaración de Impuestos</h4>
+                                    <p class="text-muted mb-0">Gestionamos y presentamos tus declaraciones mensuales y anuales ante el SAT, optimizando tu carga fiscal dentro del marco legal.</p>
                                 </div>
                             </div>
                         </div>
@@ -215,8 +226,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-graph-up"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Estados Financieros</h3>
-                                    <p class="text-muted mb-0">Elaboración de balance general, estado de resultados y flujo de efectivo. Información clara para la toma de decisiones estratégicas.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Análisis Financiero</h4>
+                                    <p class="text-muted mb-0">Elaboramos y analizamos balance general, estado de resultados y flujo de efectivo, proporcionando información precisa que respalde decisiones estratégicas en tu empresa.</p>
                                 </div>
                             </div>
                         </div>
@@ -228,8 +239,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-person-badge"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Alta, Baja y Modificaciones ante el IMSS</h3>
-                                    <p class="text-muted mb-0">Gestión completa de movimientos de trabajadores ante el IMSS. Evita multas y mantén actualizado el registro patronal de tu empresa.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Trámites ante el IMSS</h4>
+                                    <p class="text-muted mb-0">Controlamos altas, bajas y modificaciones de tu personal ante el IMSS, manteniendo tu registro patronal al día y evitando multas.</p>
                                 </div>
                             </div>
                         </div>
@@ -241,8 +252,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-receipt"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Facturación</h3>
-                                    <p class="text-muted mb-0">Emisión de facturas electrónicas (CFDI) cumpliendo con todos los requisitos del SAT. Timbrado rápido y seguro para tus operaciones.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Facturación</h4>
+                                    <p class="text-muted mb-0">Gestionamos la emisión de tus facturas electrónicas (CFDI) cumpliendo con todos los requisitos del SAT, asegurando un timbrado rápido y seguro para tus operaciones.</p>
                                 </div>
                             </div>
                         </div>
@@ -254,8 +265,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-lightbulb"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Asesoría Administrativa, Fiscal y Legal</h3>
-                                    <p class="text-muted mb-0">Consultoría especializada para optimizar procesos, cumplir obligaciones fiscales y resolver situaciones legales de tu negocio.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Asesoría Integral</h4>
+                                    <p class="text-muted mb-0">Brindamos consultoría especializada para optimizar procesos, asegurar cumplimiento fiscal y dar respaldo legal a tu empresa.</p>
                                 </div>
                             </div>
                         </div>
@@ -267,8 +278,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-building"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Trámites ante SAT, IMSS, INFONAVIT y Bancos</h3>
-                                    <p class="text-muted mb-0">Gestión de trámites y seguimiento ante instituciones gubernamentales y bancarias. Ahorra tiempo y evita contratiempos burocráticos.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Gestión de Trámites</h4>
+                                    <p class="text-muted mb-0">Gestionamos tus trámites ante <strong>SAT, IMSS, INFONAVIT y bancos</strong>, optimizando tiempo y evitando contratiempos.</p>
                                 </div>
                             </div>
                         </div>
@@ -280,8 +291,8 @@
                                     <div class="text-main mb-3" style="font-size: 3rem;">
                                         <i class="bi bi-briefcase"></i>
                                     </div>
-                                    <h3 class="h4 fw-bold mb-3 ff_montserrat">Representación Legal</h3>
-                                    <p class="text-muted mb-0">Te representamos ante autoridades fiscales y laborales en auditorías, aclaraciones y procedimientos administrativos.</p>
+                                    <h4 class="h4 fw-bold mb-3 ff_montserrat">Asesoría Legal</h4>
+                                    <p class="text-muted mb-0">Te representamos ante autoridades fiscales y laborales en auditorías, aclaraciones y procedimientos administrativos, asegurando cumplimiento y respaldo para tu empresa.</p>
                                 </div>
                             </div>
                         </div>
@@ -293,19 +304,19 @@
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6">
-                        <h2 class="fw-bolder mb-4  ff_montserrat" data-aos="fade-right">Por qué elegirnos</h2>
+                        <h4 class="fw-bolder mb-4  ff_montserrat" data-aos="fade-right">Elige SECOFYL</h4>
                         <ul class="list-unstyled">
                             <li data-aos="flip-down" class="mb-2">
-                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Atención personalizada y cercana
+                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Atención personalizada y cercana, cada negocio es único.
                             </li>
                             <li data-aos="flip-down" class="mb-2">
-                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Equipo de contadores certificados
+                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Equipo de contadores certificados y expertos.
                             </li>
                             <li data-aos="flip-down" class="mb-2">
-                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Amplia experiencia en distintos sectores
+                                <i class="bi bi-check-circle-fill text-main  me-2"></i> Cumplimiento fiscal y administrativo sin complicaciones.
                             </li>
                             <li data-aos="flip-down" class="mb-2">
-                                <i class="bi bi-check-circle-fill text-main me-2"></i> Transparencia, puntualidad y confianza
+                                <i class="bi bi-check-circle-fill text-main me-2"></i> Puntualidad en entregas y cumplimiento de obligaciones.
                             </li>
                         </ul>
                     </div>
@@ -322,8 +333,8 @@
     <section class="py-5 bg-white" id="values">
         <div class="container px-5 my-5">
             <div class="text-center mb-5">
-                <h2 class="fw-bolder mb-3" data-aos="fade-up">Nuestros Valores</h2>
-                <p class="text-muted mb-0">Los principios que guían nuestro trabajo y relación con cada cliente</p>
+                <h4 class="fw-bolder mb-3" data-aos="fade-up">Valores SECOFYL</h4>
+                <p class="text-muted mb-0">Nuestro enfoque profesional al servicio de cada cliente</p>
             </div>
 
             <div class="row gx-5 justify-content-center">
@@ -335,8 +346,8 @@
                                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z" />
                             </svg>
                         </div>
-                        <h3 class="h4 fw-bold mb-3" data-aos="flip-down">Compromiso</h3>
-                        <p class="text-muted">Nos dedicamos con pasión a cada proyecto, cumpliendo puntualmente con todas las obligaciones fiscales y contables de nuestros clientes. Su éxito financiero es nuestra meta.</p>
+                        <h4 class="h4 fw-bold mb-3" data-aos="flip-down">Compromiso</h4>
+                        <p class="text-muted">Nos dedicamos con pasión a cada proyecto, cumpliendo puntualmente con todas las obligaciones fiscales y contables. El éxito financiero de nuestros clientes es nuestra prioridad.</p>
                     </div>
                 </div>
 
@@ -348,8 +359,8 @@
                                 <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z" />
                             </svg>
                         </div>
-                        <h3 class="h4 fw-bold mb-3" data-aos="flip-down">Responsabilidad</h3>
-                        <p class="text-muted">Manejamos la información financiera de su empresa con el más alto nivel de profesionalismo y precisión. Cada número cuenta y cada declaración es revisada meticulosamente.</p>
+                        <h4 class="h4 fw-bold mb-3" data-aos="flip-down">Responsabilidad</h4>
+                        <p class="text-muted">Manejamos la información financiera de tu empresa con precisión y profesionalismo, revisando meticulosamente cada declaración.</p>
                     </div>
                 </div>
 
@@ -362,8 +373,8 @@
                             </svg>
 
                         </div>
-                        <h3 class="h4 fw-bold mb-3" data-aos="flip-down">Confianza</h3>
-                        <p class="text-muted">Construimos relaciones a largo plazo basadas en la transparencia, confidencialidad y honestidad. Sus datos financieros están seguros con nosotros y nuestra asesoría siempre será clara y veraz.</p>
+                        <h4 class="h4 fw-bold mb-3" data-aos="flip-down">Confianza</h4>
+                        <p class="text-muted">Construimos relaciones a largo plazo basadas en transparencia, confidencialidad y honestidad. Tus datos financieros están siempre seguros y nuestra asesoría es clara y veraz.</p>
                     </div>
                 </div>
             </div>
@@ -375,33 +386,32 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="text-center mb-5">
-                        <h2 class="display-6 fw-normal mb-0 ff_montserrat">
+                        <h4 class="display-6 fw-normal mb-0 ff_montserrat">
                             <span class="fw-bold" data-aos="zoom-in-right">Más de 100 empresas</span>
-                            confían en nosotros para mantener
-                            sus finanzas en orden y cumplir con sus obligaciones fiscales.
-                        </h2>
+                            confían en SECOFYL para mantener sus finanzas en orden y cumplir con sus obligaciones fiscales de manera segura.
+                        </h4>
                     </div>
 
                     <div class="row text-center mt-5 align-items-center">
                         <div class="col-md-3 mb-4 mb-md-0">
                             <div class="stat-item">
-                                <h3 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
-                                    data-aos-delay="300" data-aos-offset="0">+1500</h3>
+                                <h4 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
+                                    data-aos-delay="300" data-aos-offset="0">+1500</h4>
                                 <p class="text-success mb-0">Clientes activos</p>
                             </div>
                         </div>
                         <div class="col-md-3 mb-4 mb-md-0">
                             <div class="stat-item">
-                                <h3 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
-                                    data-aos-delay="300" data-aos-offset="50">+15 años</h3>
-                                <p class="text-success mb-0">experiencia</p>
+                                <h4 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
+                                    data-aos-delay="300" data-aos-offset="50">+15 años</h4>
+                                <p class="text-success mb-0">Prestigio</p>
                             </div>
                         </div>
                         <div class="col-md-3 mb-4 mb-md-0">
                             <div class="stat-item">
-                                <h3 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
-                                    data-aos-delay="300" data-aos-offset="100">98%</h3>
-                                <p class="text-success mb-0">Nivel de satisfacción</p>
+                                <h4 class="display-4 fw-bold mb-2" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
+                                    data-aos-delay="300" data-aos-offset="100">98%</h4>
+                                <p class="text-success mb-0">Clientes satisfechos</p>
                             </div>
                         </div>
                         <div class="col-md-3">
@@ -419,16 +429,16 @@
     <section class="py-5 bg-light" id="testimonials">
         <div class="container px-4 px-md-5 my-5">
             <div class="text-center mb-5">
-                <h2 class="fw-bolder mb-3 ff_montserrat" data-aos="flip-down">Lo que dicen nuestros clientes</h2>
-                <p class="text-muted mb-0">Nuestros clientes nos recomiendan</p>
+                <h4 class="fw-bolder mb-3 ff_montserrat" data-aos="flip-down">Reconocimiento de nuestros clientes</h4>
+                <p class="text-muted mb-0">Cada experiencia refleja nuestro compromiso</p>
             </div>
 
             <div class="row gx-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card h-100 border-0 shadow-sm" data-aos="flip-up">
                         <div class="card-body p-5 text-center">
-                            <img src="https://via.placeholder.com/120" alt="Sarah Johnson" class="rounded-circle mb-4" width="120" height="120">
-                            <p class="text-muted mb-4">"Empresas transformó nuestros procesos financieros. Su atención al detalle y su asesoramiento proactivo han sido invaluables para nuestro crecimiento."</p>
+                            <!-- <img src="https://via.placeholder.com/120" alt="Sarah Johnson" class="rounded-circle mb-4" width="120" height="120"> -->
+                            <p class="text-muted mb-4">“SECOFYL optimizó nuestros procesos financieros. Su atención al detalle y asesoramiento proactivo fueron esenciales para nuestro crecimiento.”</p>
                             <h5 class="fw-bold mb-1">Sarah Johnson</h5>
                             <p class="text-muted small mb-0">CEO of Innovate Co.</p>
                         </div>
@@ -438,8 +448,8 @@
                 <div class="col-lg-4 col-md-6 mb-4" data-aos="flip-up">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body p-5 text-center">
-                            <img src="https://via.placeholder.com/120" alt="Michael Chen" class="rounded-circle mb-4" width="120" height="120">
-                            <p class="text-muted mb-4">"Los servicios de contabilidad y nómina son impecables. Me han liberado muchísimo tiempo para concentrarme en el negocio principal."</p>
+                            <!-- <img src="https://via.placeholder.com/120" alt="Michael Chen" class="rounded-circle mb-4" width="120" height="120"> -->
+                            <p class="text-muted mb-4">"Los servicios de contabilidad y nómina de SECOFYL son impecables. Nos han permitido liberar mucho tiempo para concentrarnos en nuestro negocio principal."</p>
                             <h5 class="fw-bold mb-1">Michael Chen</h5>
                             <p class="text-muted small mb-0">Founder of Tech Solutions</p>
                         </div>
@@ -449,8 +459,8 @@
                 <div class="col-lg-4 col-md-6 mb-4" data-aos="flip-up">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body p-5 text-center">
-                            <img src="https://via.placeholder.com/120" alt="David Rodriguez" class="rounded-circle mb-4" width="120" height="120">
-                            <p class="text-muted mb-4">"Lidiar con la temporada de impuestos solía ser una pesadilla. Con Servicios de Contabilidad Fiscal y Legal, es sencillo y libre de estrés. ¡Altamente recomendado!"</p>
+                            <!-- <img src="https://via.placeholder.com/120" alt="David Rodriguez" class="rounded-circle mb-4" width="120" height="120"> -->
+                            <p class="text-muted mb-4">"La temporada de impuestos solía ser una carga. Con SECOFYL, los servicios contables, fiscales y legales hacen todo fácil y libre de estrés."</p>
                             <h5 class="fw-bold mb-1">David Rodriguez</h5>
                             <p class="text-muted small mb-0">Owner, Local Eats Cafe</p>
                         </div>
@@ -463,7 +473,7 @@
     <section class="py-2 bg-light" id="clients">
         <div class="container px-4 px-md-5 my-2">
             <div class="text-center mb-5">
-                <h2 class="fw-bolder mb-3 ff_montserrat" data-aos="flip-down">Nuestros Clientes</h2>
+                <h4 class="fw-bolder mb-3 ff_montserrat" data-aos="flip-down">Nuestros Clientes</h4>
                 <p class="text-muted mb-0">Empresas que confían en nuestros servicios</p>
             </div>
 
@@ -504,25 +514,28 @@
             <div class="row gx-5">
                 <!-- Columna izquierda -->
                 <div class="col-lg-5 mb-5 mb-lg-0">
-                    <h2 class="fw-bolder mb-4 ff_montserrat" data-aos="fade-right">Resuelve tus dudas</h2>
+                    <h4 class="fw-bolder mb-4 ff_montserrat" data-aos="fade-right">Resuelve tus dudas</h4>
                     <p class="text-main mb-0" style="font-weight: 500;">Si aún tienes preguntas sobre nuestro servicio...</p>
                 </div>
 
                 <!-- Columna derecha con acordeón -->
                 <div class="col-lg-7">
                     <div class="mb-5">
-                        <h3 class="h4 fw-bold mb-4" data-aos="flip-down">
+                        <h4 class="h4 fw-bold mb-4" data-aos="flip-down">
+                            <span class="text-main  ps-3 ff_montserrat">Estamos listos para responder tus preguntas</span>
+                        </h4>
+                        <h4 class="h4 fw-bold mb-4" data-aos="flip-down">
                             <span class="text-main border-start border-success border-4 ps-3 ff_montserrat">¿Cómo funciona el servicio?</span>
-                        </h3>
+                        </h4>
                         <ol class="text-muted" style="list-style: none;">
-                            <li class="mb-2"><strong>1.</strong> Contáctanos para resolver tus dudas.</li>
-                            <li class="mb-2"><strong>2.</strong> Llena el formulario para que coticemos tu servicio según las necesidades de tu empresa.</li>
-                            <li class="mb-2"><strong>3.</strong> Contrata nuestro servicio.</li>
-                            <li class="mb-2"><strong>4.</strong> Entrega la papelería necesaria para tu proyecto.</li>
-                            <li class="mb-2"><strong>5.</strong> En caso de que aplique entregamos Termómetro Legal ® y Diagnóstico Legal.</li>
-                            <li class="mb-2"><strong>6.</strong> Empezamos a atender tus necesidades legales.</li>
-                            <li class="mb-2"><strong>7.</strong> Revisa los entregables y apruébalos.</li>
-                            <li class="mb-2"><strong>8.</strong> Siempre constante comunicación.</li>
+                            <li class="mb-2"><strong>1.</strong> Contáctanos y aclara todas tus dudas. Estamos para guiarte.</li>
+                            <li class="mb-2"><strong>2.</strong> Llena un formulario rápido y te enviaremos una propuesta adaptada a tu empresa.</li>
+                            <li class="mb-2"><strong>3.</strong> Una vez aceptada la cotización, iniciamos el servicio de inmediato.</li>
+                            <li class="mb-2"><strong>4.</strong> Te indicamos qué papelería necesitamos para comenzar tu proyecto.</li>
+                            <li class="mb-2"><strong>5.</strong> Entregamos (si aplica) el Termómetro Legal® y el Diagnóstico Legal para tener claridad sobre tu situación.</li>
+                            <li class="mb-2"><strong>6.</strong> Atendemos tus necesidades contables, fiscales o legales con profesionalismo y eficiencia.</li>
+                            <li class="mb-2"><strong>7.</strong> Te enviamos los entregables para tu validación y aseguramos que todo cumpla con tus expectativas.</li>
+                            <li class="mb-2"><strong>8.</strong> Mantente informado en todo momento: resolvemos dudas y damos seguimiento continuo..</li>
                         </ol>
                     </div>
 
@@ -533,12 +546,12 @@
                     <!-- Acordeón -->
                     <div class="accordion" id="faqAccordion">
                         <div class="accordion-item border mb-3">
-                            <h2 class="accordion-header" id="heading1">
+                            <h4 class="accordion-header" id="heading1">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <span class="me-2 fw-bold">01</span>
                                     ¿Qué servicios de contabilidad ofrecen?
                                 </button>
-                            </h2>
+                            </h4>
                             <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Ofrecemos preparación de impuestos, contabilidad general, servicios de nómina, asesoría financiera, auditorías, declaraciones fiscales mensuales y anuales, y planeación fiscal estratégica. Trabajamos con empresas de todos los tamaños, desde emprendedores hasta PyMEs establecidas.
@@ -547,12 +560,12 @@
                         </div>
 
                         <div class="accordion-item border mb-3">
-                            <h2 class="accordion-header" id="heading2">
+                            <h4 class="accordion-header" id="heading2">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <span class="me-2 fw-bold">02</span>
                                     ¿Cuánto cuestan sus servicios de contabilidad?
                                 </button>
-                            </h2>
+                            </h4>
                             <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Nuestras tarifas varían según el tamaño de su empresa, volumen de transacciones y servicios requeridos. Contáctenos para una cotización personalizada sin compromiso.
@@ -561,12 +574,12 @@
                         </div>
 
                         <div class="accordion-item border mb-3">
-                            <h2 class="accordion-header" id="heading3">
+                            <h4 class="accordion-header" id="heading3">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <span class="me-2 fw-bold">03</span>
                                     ¿Tengo que presentar declaraciones aunque no tenga movimientos?
                                 </button>
-                            </h2>
+                            </h4>
                             <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Sí, es obligatorio presentar declaraciones fiscales incluso sin ingresos o movimientos. Se presenta una declaración "en ceros" o "sin movimientos" para mantener su situación fiscal al corriente y evitar multas del SAT.
@@ -575,12 +588,12 @@
                         </div>
 
                         <div class="accordion-item border mb-3">
-                            <h2 class="accordion-header" id="heading4">
+                            <h4 class="accordion-header" id="heading4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <span class="me-2 fw-bold">04</span>
                                     ¿Con qué frecuencia debo actualizar mi contabilidad?
                                 </button>
-                            </h2>
+                            </h4>
                             <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Recomendamos llevar la contabilidad de manera mensual para cumplir con las obligaciones fiscales y tener información financiera actualizada para tomar decisiones. Las declaraciones mensuales deben presentarse antes del día 17 de cada mes.
@@ -589,12 +602,12 @@
                         </div>
 
                         <div class="accordion-item border mb-3">
-                            <h2 class="accordion-header" id="heading5">
+                            <h4 class="accordion-header" id="heading5">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <span class="me-2 fw-bold">05</span>
                                     ¿Qué documentos necesito para contratar sus servicios?
                                 </button>
-                            </h2>
+                            </h4>
                             <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Necesitará su RFC, constancia de situación fiscal, estados de cuenta bancarios, facturas de ingresos y gastos, y comprobantes de nómina si aplica. Durante la consulta inicial, le indicaremos exactamente qué documentación requiere según su tipo de negocio.
@@ -612,8 +625,11 @@
             <div class="row gx-5 align-items-start">
                 <!-- Columna izquierda - Información de contacto -->
                 <div class="col-lg-5 mb-5 mb-lg-0">
-                    <h2 class="fw-bolder mb-4" data-aos="fade-right">Contáctanos</h2>
-                    <p class="text-muted mb-5" data-aos="flip-down">¿Listo para tomar el control de tus finanzas? Completa el formulario o utiliza los datos de contacto a continuación para iniciar una conversación.</p>
+                    <h4 class="fw-bolder mb-4" data-aos="fade-right">Inicia tu asesoría</h4>
+                    <h4 class="fw-bolder mb-4" data-aos="fade-right"> Toma el control de tus finanzas. </h4>
+                    <p class="text-muted mb-5" data-aos="flip-down">
+                        Complete el formulario o llámenos para iniciar con su asesoría.
+                    </p>
 
                     <div class="d-flex align-items-start mb-4">
                         <div class="me-3" data-aos="flip-up">
