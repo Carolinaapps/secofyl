@@ -106,7 +106,7 @@
 
 <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
-        <div class="container px-5">
+        <div class="container px-1">
             <a class="navbar-brand" href="#page-top">
                 <img src="assets/logo1-removebg.png" alt="" style="height: 100px;">
             </a>
