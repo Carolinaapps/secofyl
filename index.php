@@ -137,8 +137,7 @@
             <div class="row gx-5 align-items-center justify-content-center" style="min-height: 100dvh;">
                 <div class="col-lg-6 col-xl-6 col-xxl-6">
                     <div class="my-5 text-center text-xl-start">
-                        <h1 data-aos="fade-up" class="display-4 fw-bolder text-dark mb-2 ff_montserrat">Despacho Contable en San Pedro Garza García.</h1>
-                        <h2 data-aos="fade-up" class="display-4 fw-bolder text-dark my-4 ff_montserrat">Contabilidad Profesional para el crecimiento de tu empresa.</h2>
+                        <h1 data-aos="fade-up" class="display-4 fw-bolder text-dark my-4 ff_montserrat">Contabilidad Profesional para el crecimiento de tu empresa.</h1>
                         <p class="lead fw-normal text-muted mb-4">Brindamos estructura y confianza para el desarrollo sostenible de tu empresa.</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                             <a data-aos="fade-right" data-aos-offset="-100" data-aos-easing="ease-in-sine" class="btn bg-main  text-white btn-lg px-4 me-sm-3" href="#contact">Solicita una Asesoría</a>
