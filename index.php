@@ -55,6 +55,18 @@
     <meta name="geo.placename" content="Monterrey">
 
     <title>Despacho Contable en San Pedro Garza García | SECOFYL</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17960225625"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17960225625');
+    </script>
 
     <script type="application/ld+json">
         {
