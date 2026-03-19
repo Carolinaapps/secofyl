@@ -104,16 +104,6 @@
         }
     </script>
 
-
-    <!-- Event snippet for Vista de una página conversion page -->
-    <script>
-        gtag('event', 'conversion', {
-            'send_to': 'AW-17253400691/0KSHCM6h2OAaEPOAiKNA',
-            'value': 1.0,
-            'currency': 'MXN'
-        });
-    </script>
-
 </head>
 
 <body id="page-top">

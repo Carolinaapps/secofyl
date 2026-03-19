@@ -72,6 +72,12 @@ window.addEventListener("DOMContentLoaded", (event) => {
       formulario.reset();
       fireToast("success", "Mensaje Enviado con Exito");
       document.getElementById("enviar-formulario").disabled = false;
+
+      gtag("event", "conversion", {
+        send_to: "AW-17960225625/QEaECIGDgowcENmWjfRC",
+        value: 1.0,
+        currency: "MXN",
+      });
     });
   });
 
