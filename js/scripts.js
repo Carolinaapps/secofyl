@@ -56,7 +56,6 @@ window.addEventListener("DOMContentLoaded", (event) => {
       // console.log('aca');
 
       // deshabilitamos el submit
-      // document.getElementById("enviar-formulario2").disabled = true;
       document.getElementById("enviar-formulario").disabled = true;
       //
       const response = await fetch("https://secofyl.com/php/index.php", {
@@ -70,6 +69,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
         );
         return;
       }
+      formulario.reset();
       fireToast("success", "Mensaje Enviado con Exito");
       document.getElementById("enviar-formulario").disabled = false;
       setTimeout(() => {
