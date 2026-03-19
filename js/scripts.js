@@ -46,7 +46,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
       }
       if (
         !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(
-          formData.get("email")
+          formData.get("email"),
         )
       ) {
         fireToast("warning", "Email es Invalido");
@@ -66,11 +66,12 @@ window.addEventListener("DOMContentLoaded", (event) => {
       if (response.success === false) {
         fireToast(
           "warning",
-          "Hubo un error al momento de enviar el correo, por favor intente de nuevo"
+          "Hubo un error al momento de enviar el correo, por favor intente de nuevo",
         );
         return;
       }
       fireToast("success", "Mensaje Enviado con Exito");
+      document.getElementById("enviar-formulario").disabled = false;
       setTimeout(() => {
         // window.location.reload();
       }, 2000);
