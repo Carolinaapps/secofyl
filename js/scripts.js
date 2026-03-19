@@ -72,9 +72,6 @@ window.addEventListener("DOMContentLoaded", (event) => {
       formulario.reset();
       fireToast("success", "Mensaje Enviado con Exito");
       document.getElementById("enviar-formulario").disabled = false;
-      setTimeout(() => {
-        // window.location.reload();
-      }, 2000);
     });
   });
 
